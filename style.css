@@ -42,7 +42,6 @@ main {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px 0;
 }
 
 .sobre_agricultura-div-conteudo{
@@ -51,6 +50,7 @@ main {
 
 .sobre_agricultura-imagem{
     width: 100%;
+    height: 50%;
 }
 
 .sobre-nos-titulo{
