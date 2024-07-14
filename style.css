@@ -49,6 +49,8 @@ main {
 
 .sobre_agricultura-imagem{
         width: 100%;
+        max-width: 2100px;
+        max-height: 1200px;
 }
 
 .sobre-nos-titulo{
