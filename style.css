@@ -38,7 +38,6 @@ main {
 }
 
 .sobre_agricultura{
-    background-image: linear-gradient(#003399, #3b00501f);
     color: #FFFFFF;
     display: flex;
     justify-content: space-around;
