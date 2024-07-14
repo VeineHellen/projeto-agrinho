@@ -1,20 +1,20 @@
 /* style.css */
 
-body {
+.body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f0f0f0;
 }
 
-header {
+.header {
     background-color: #3c703e;
     color: white;
     text-align: center;
     padding: 10px;
 }
 
-main {
+.main {
     max-width: 1500px;
     margin: 20px auto;
     padding: 20px;
@@ -22,11 +22,11 @@ main {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-section {
+.section {
     margin-bottom: 20px;
 }
 
-footer {
+.footer {
     text-align: center;
     padding: 10px;
     background-color: #3c703e;
@@ -36,11 +36,11 @@ footer {
     width: 100%;
 }
 
-ul {
+.ul {
     list-style-type: none;
     padding: 0;
 }
 
-li {
+.li {
     margin-bottom: 5px;
 }
