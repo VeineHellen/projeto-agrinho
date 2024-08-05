@@ -9,6 +9,7 @@
 
 .cabecalho {
     background-color: #106100;
+    background-image: linear-gradient(180deg, #003310, #00b316);
     color: white;
     display: flex;
     justify-content: space-around;
@@ -55,13 +56,13 @@ main {
  width: 100%;
 }
 
-.sobre-nos-titulo{
+.sobre_agricultura-titulo{
     padding: 5px 0;
     text-align: center;
     font-size: 60px;
 }
 
-.sobre_nos-texto-um{
+.sobre_agricultura-texto-um{
     font-size: 22px;
     padding: 10px 0;
 }
