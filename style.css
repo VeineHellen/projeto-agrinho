@@ -57,14 +57,14 @@ main {
 }
 
 .sobre_agricultura-titulo{
-    padding: 5px 0;
+    padding: 5px;
     text-align: center;
     font-size: 35px;
 }
 
 .sobre_agricultura-texto-um{
     font-size: 22px;
-    padding: 10px 0;
+    padding: 10px;
     text-align: left;
 }
 
@@ -75,6 +75,18 @@ main {
 }
 
 .sobre_agricultura-texto-dois{
+    font-size: 22px;
+    padding: 10px;
+    text-align: left;
+}
+
+.sobre_agricultura-titulo-tres{
+    padding: 5px;
+    text-align: center;
+    font-size: 28px;
+}
+
+.sobre_agricultura-texto-tres{
     font-size: 22px;
     padding: 10px;
     text-align: left;
