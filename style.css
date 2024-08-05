@@ -68,6 +68,18 @@ main {
     text-align: left;
 }
 
+.sobre_agricultura-titulo-dois{
+    padding: 5px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.sobre_agricultura-texto-dois{
+    font-size: 22px;
+    padding: 10px;
+    text-align: left;
+}
+
 footer {
     text-align: center;
     padding: 10px;
