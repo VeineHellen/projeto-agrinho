@@ -59,12 +59,13 @@ main {
 .sobre_agricultura-titulo{
     padding: 5px 0;
     text-align: center;
-    font-size: 60px;
+    font-size: 35px;
 }
 
 .sobre_agricultura-texto-um{
     font-size: 22px;
     padding: 10px 0;
+    text-align: left;
 }
 
 footer {
